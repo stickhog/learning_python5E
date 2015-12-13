@@ -1,0 +1,3 @@
+#!/usr/bin/env python
+# pg 59
+print('The Bright Side ' + 'of Life...')	#+ means concatenate for strings
